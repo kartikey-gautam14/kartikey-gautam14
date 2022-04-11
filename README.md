@@ -1,5 +1,5 @@
 ### Hi I am Kartikey Gautam
-[![Linkedin Badge](https://img.shields.io/badge/-Deepesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepesh-rathi-bb54051a3/)](https://www.linkedin.com/in/deepesh-rathi-bb54051a3/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kartikey-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartikeygautam14/)](https://www.linkedin.com/in/deepesh-rathi-bb54051a3/)
 [![Badge](https://cp-logo.vercel.app/codechef/kartikey_?logo=true)](https://www.codechef.com/users/dprathi)
 [![Badge](https://cp-logo.vercel.app/codeforces/kartikey_?logo=true)](https://codeforces.com/profile/MrPirated)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikey-gautam14&label=Profile%20views&color=0e75b6&style=flat" alt="kartikey-gautam14" /> </p>
